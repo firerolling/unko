@@ -45,5 +45,5 @@ group :development do
   gem 'spring'
 end
 
-gem 'rmagick', require: false
+#gem 'rmagick', require: false
 
